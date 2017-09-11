@@ -25,7 +25,6 @@ for day in range(2,days+2):
         outfile.write(str(day-1))
         break
 
-
 # Finally, close the input/output files.
 infile.close()
 outfile.close()
