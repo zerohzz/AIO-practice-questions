@@ -1,3 +1,6 @@
+# This program is on Python 2.7
+# Answering the "The Tremendous Tak-Tak Tree" problem
+# http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=simple2&problemid=382
 
 import sys
 
