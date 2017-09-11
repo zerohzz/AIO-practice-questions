@@ -1,3 +1,7 @@
+# This program is on Python 2.7
+# Answering the "Dictionary" problem
+# http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=simple3&problemid=413
+
 #Open input files
 infile = open("dictin.txt","r")
 
