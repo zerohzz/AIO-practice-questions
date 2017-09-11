@@ -55,3 +55,4 @@ for i in range(len(word_list)):
 # Finally, close the input/output files.
 infile.close()
 outfile.close()
+
