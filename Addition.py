@@ -2,8 +2,6 @@
 # Answering the "Addition" problem
 # http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=simple1&problemid=333
 
-import sys
-
 # Open input files
 infile = open("addin.txt","r")
 
