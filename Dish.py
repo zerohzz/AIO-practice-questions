@@ -2,8 +2,6 @@
 # Answering the "A Dish Best Served Cold" problem
 # http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=simple2&problemid=397
 
-import sys
-
 #Open input files
 infile = open("dishin.txt","r")
 
