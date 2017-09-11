@@ -1,5 +1,6 @@
-
-import sys
+# This program is on Python 2.7
+# Answering the "Encyclopædia" problem
+# http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=simple3&problemid=412
 
 #Open input files
 infile = open("in.txt","r")
