@@ -1,3 +1,8 @@
+# This program is on Python 2.7
+# Answering the "Probe" problem
+# AIO 2016 (Senior)
+# http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=aio16sen&problemid=905
+
 #Open input files
 infile = open("probein.txt","r")
 
