@@ -1,9 +1,9 @@
 # AIO-practice-questions
 
-The solutions of Australian Informatics Olympiad (AIO):
+Australian Informatics Olympiad (AIO):
 http://www.amt.edu.au/informatics/aio/
 
-Practice questions from:
-http://orac.amt.edu.au/cgi-bin/train/hub.pl?expand=simple1#simple1
+The solutions of practice questions from:
+http://orac.amt.edu.au/cgi-bin/train/hub.pl
 
 Written in Python 2.7
