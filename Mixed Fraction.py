@@ -2,8 +2,6 @@
 # Answering the "Mixed Fraction" problem
 # http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=simple1&problemid=362
 
-import sys
-
 def min(a,b):
   if (a<b):
     return a
