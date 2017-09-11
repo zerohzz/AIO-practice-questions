@@ -1,10 +1,13 @@
+# This program is on Python 2.7
+# Answering the "Pygmy Hippos" problem
+# AIO 2014 (Intermediate)
 # http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=aio14int&problemid=781
 
 #Open input files
-infile = open("in.txt","r")
+infile = open("hippoin.txt","r")
 
 #Open output files
-outfile = open("out.txt","w")
+outfile = open("hippoout.txt","w")
 
 #Read the input into the string, split by space
 string1 = infile.read().split()
