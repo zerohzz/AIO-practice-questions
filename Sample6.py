@@ -1,11 +1,14 @@
+# This program is on Python 2.7
+# Answering the "A Dish Best Served Cold" problem
+# http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=simple2&problemid=397
 
 import sys
 
 #Open input files
-infile = open("in.txt","r")
+infile = open("dishin.txt","r")
 
 #Open output files
-outfile = open("out.txt","w")
+outfile = open("dishout.txt","w")
 
 #Read the input into the string, split by space
 string1 = infile.read().split()
