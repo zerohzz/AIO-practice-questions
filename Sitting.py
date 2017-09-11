@@ -2,8 +2,6 @@
 # Answering the "Sitting or Standing?" problem
 # http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=simple1&problemid=342
 
-import sys
-
 #Open input files
 infile = open("sitin.txt","r")
 
