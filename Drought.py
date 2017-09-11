@@ -1,8 +1,12 @@
+# This program is on Python 2.7
+# Answering the "Drought" problem
+# http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=simple2&problemid=398
+
 #Open input files
-infile = open("in.txt","r")
+infile = open("rainin.txt","r")
 
 #Open output files
-outfile = open("out.txt","w")
+outfile = open("rainout.txt","w")
 
 #Read the input into the string, split by space
 string1 = infile.read().split()
